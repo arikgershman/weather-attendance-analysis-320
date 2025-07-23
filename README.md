@@ -77,4 +77,4 @@ Based on this analysis, professors **should not rely on weather conditions to si
 * **Statsmodels**: For time-series decomposition (STL).
 * **NumPy**: For numerical operations, including correlation calculations.
 * **SciPy (stats)**: For Spearman correlation and p-value calculation.
-* **Google Colab**: For interactive analysis and documentation.
+* **Jupyter Notebook (Google Colab)**: For interactive analysis and documentation.
